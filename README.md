@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm @mukhbit0  
 
-<!--
-**mukhbit0/mukhbit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a bit about me:  
 
-Here are some ideas to get you started:
+## About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Automating Minimalist Poster Creations  
+- 🌱 **I’m currently learning:** AI prompts and web scraping  
+- 👯 **I’m looking to collaborate on:** All my new projects  
+- 🤔 **I’m looking for help with:** Manhwa APIs  
+- 💬 **Ask me about:** Anything!  
+- 📫 **How to reach me:** mukhbit000@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** AI is the best!  
+
+## How to Reach Me  
+📫 You can contact me at: **mukhbit000@gmail.com**  
+
+Feel free to explore my repositories and connect with me for discussions or collaborations! 😊  
