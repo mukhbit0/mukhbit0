@@ -106,7 +106,7 @@ fun_fact: "I think I'm lazy, but I code fast!"
   <a href="https://x.com/mu7khbit" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://youtube.com/@@MasterLloydFrontera" target="_blank">
+  <a href="https://youtube.com/@MasterLloydFrontera" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:mukhbit000@gmail.com" target="_blank">
